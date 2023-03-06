@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">percobaan tugas</string>
+    <string name="hint_komentar"></string>
+    <string name="button_submit_komentar"></string>
+</resources>
